@@ -65,8 +65,5 @@
 <a href="https://www.youtube.com/@Sarukode">
   <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="Youtube">
 </a>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarukode&layout=compact&theme=tokyonight" />
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming" alt="Programming Quote" />
-</p>
 
+<<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming" alt="Programming Quote" /> </p>
