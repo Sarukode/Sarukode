@@ -71,3 +71,12 @@
 </a>
 
 </span>
+<img src="https://github-readme-stats.vercel.app/api?username=Sarukode&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarukode&layout=compact&theme=tokyonight" />
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming" alt="Programming Quote" />
+</p>
+
+
