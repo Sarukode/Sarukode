@@ -53,28 +53,20 @@
 </span>
 
 
-<h4>IDE</h4>
+<h4>IDE & Tools</h4>
 <span>
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white">
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
-</span>
-
-
-<h4> Other Tools and Technologies </h4>
-<span>
-<img src="https://img.shields.io/badge/GitHub_Desktop-000000?style=for-the-badge&logo=github&logoColor=white">
+	<img src="https://img.shields.io/badge/GitHub_Desktop-000000?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white">
+</span>
 <h4>Check out my Social Media</h4>
 <a href="https://www.youtube.com/@Sarukode">
   <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="Youtube">
 </a>
-
-</span>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarukode&layout=compact&theme=tokyonight" />
-
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarukode&layout=compact&theme=tokyonight" />
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming" alt="Programming Quote" />
 </p>
-
 
